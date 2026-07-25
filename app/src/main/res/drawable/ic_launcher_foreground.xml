@@ -1,0 +1,41 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Classic Joseon Historical Book & Seal Motif -->
+    <!-- Book Shadow / Base -->
+    <path
+        android:fillColor="#1A0000"
+        android:pathData="M32,32 h44 v44 h-44 z" />
+    <!-- Book Cover - Gold Yellow Accent -->
+    <path
+        android:fillColor="#F39C12"
+        android:pathData="M34,30 h40 v48 h-40 z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M34,30 h8 v48 h-8 z" />
+    <!-- Book Binding Stitches (오선철 traditional binding) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#5C0601"
+        android:strokeWidth="1.5"
+        android:pathData="M38,34 v40 M38,42 h4 M38,50 h4 M38,58 h4 M38,66 h4" />
+    <!-- Label Title Tag on Book (實錄 / 실록) -->
+    <path
+        android:fillColor="#FFF8E7"
+        android:pathData="M52,36 h16 v36 h-16 z" />
+    <!-- Label Frame -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#7A121C"
+        android:strokeWidth="1"
+        android:pathData="M53,37 h14 v34 h-14 z" />
+    <!-- Center Calligraphy Stamp / Seal -->
+    <path
+        android:fillColor="#B71C1C"
+        android:pathData="M56,48 h8 v12 h-8 z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M58,50 h4 v8 h-4 z" />
+</vector>

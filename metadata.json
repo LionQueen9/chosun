@@ -1,0 +1,6 @@
+{
+  "name": "조선왕조실록 검색",
+  "description": "조선왕조실록 키워드 검색, 사건 장소 구글맵 지도 표시, 왕 및 연표 필터링, 카카오톡/페이스북/인스타그램 SNS 공유 기능",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
